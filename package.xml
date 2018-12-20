@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>my_usb_cam</name>
+  <version>0.0.0</version>
+  <description>The my_usb_cam package</description>
+
+  <maintainer email="marc.reniu.sanchez@gmail.com">Marc Reniu Sanchez</maintainer>
+
+  <license>TODO</license>
+
+  <url type="repository">https://github.com/MarcReniuSanchez/my_usb_cam</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export></export>
+</package>
